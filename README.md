@@ -1,0 +1,1 @@
+# GatsbyJS_Azure-static
